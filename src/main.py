@@ -6,7 +6,7 @@ from preprocessing import *
 from utils import *
 from trainer import *
 from dataset import *
-from model import *
+from model.igmc import IGMC
 
 def main(args) :
     if args.dataset_name == 'ml_100k' :
