@@ -1,0 +1,5 @@
+files:
+  # - ./train_configs/igmc_64.yaml
+  # - ./train_configs/igmc_64_ml-100k.yaml
+  - ./train_configs/igmc_128_ml-100k.yaml
+  # - ./train_configs/igmc_128.yaml
